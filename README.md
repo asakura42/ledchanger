@@ -8,6 +8,20 @@ Usage (sudo is optional, read below):
 sudo ledchanger.py {0..8}|off
 ```
 
+colors:
+
+```
+off - LED off
+0   - white
+1   - red
+2   - orange
+3   - yellow
+4   - green
+5   - blue
+6   - deep blue
+7   - purple
+8   - RGB
+```
 
 
 To run without sudo add UDEV rules:
