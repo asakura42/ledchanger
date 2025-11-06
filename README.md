@@ -5,7 +5,7 @@ Change LED colors on Maono PD200X mic
 Usage (sudo is optional, read below):
 
 ```
-sudo ledchanger.py {0..8|off}
+sudo ledchanger.py {0..8}|off
 ```
 
 
